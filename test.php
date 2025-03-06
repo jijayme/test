@@ -13,7 +13,7 @@ echo "<hr/>";
   
 echo stripos(strtoupper("WALK IN/APPLICANT BCC-CAT"), 'WALK'); 
 
-echo "ample";
+echo "Sample";
 
 
 $string = "WALK IN/APPLICANT BCC-CAT";
