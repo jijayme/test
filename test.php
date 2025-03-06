@@ -12,7 +12,7 @@ echo "<hr/>";
  
   
 echo stripos(strtoupper("WALK IN/APPLICANT BCC-CAT"), 'WALK'); 
-
+asdasdasd
 $string = "WALK IN/APPLICANT BCC-CAT";
 $character = "WALK";
  
